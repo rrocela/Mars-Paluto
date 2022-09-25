@@ -1,0 +1,13 @@
+.bg-mars{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.bg-orange{
+    background-color: #ff6c1c;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: black;
+}
